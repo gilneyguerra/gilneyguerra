@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 ### Learning how to code
 
 - 💬 Learning JS
@@ -8,4 +8,4 @@
 - 💬 Learning Python
 - 💬 A lot to improve...
 
--->
+
